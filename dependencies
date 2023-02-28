@@ -5,6 +5,9 @@
 // glide 
     implementation 'com.github.bumptech.glide:glide:4.14.2'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.14.2'
+    
+// circleImageview
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
 	
 // room database
     var room_version = "2.5.0"
